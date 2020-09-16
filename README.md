@@ -1,5 +1,6 @@
-# 這邊放實驗用的程式碼
+# 實驗用的程式碼
 
+請下載資料並放入 repo 裡使用
 
 ## 資料下載
 [timestamp 資料下載](https://drive.google.com/drive/folders/1DuOUtbISZ0_X7G6SaYI9YPU1kRRwcfy8?usp=sharing)
