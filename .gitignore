@@ -1,3 +1,5 @@
 feature_data/
 label/
 timestamp/
+.ipynb_checkpoints/
+*.csv
