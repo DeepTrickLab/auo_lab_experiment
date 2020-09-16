@@ -9,3 +9,7 @@
 
 [feature_data 資料下載](https://drive.google.com/drive/folders/1NK3Xv-C3RcEJIaRtbnQ_L32wsIAoZkpL?usp=sharing)
 
+
+## 資料狀態
+
+    09/12 －－－－　Unlabel：19990，label：1028
