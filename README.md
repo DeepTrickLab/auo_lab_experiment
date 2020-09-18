@@ -14,3 +14,4 @@
 
     09/12 －－－－　Unlabel：19990，label：1028
     09/16 －－－－　Unlabel：25106，label：1273
+    09/17 －－－－　Unlabel：26272，label：1104
