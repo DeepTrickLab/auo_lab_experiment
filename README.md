@@ -12,6 +12,10 @@
 
 ## 資料狀態
 
-    09/12 －－－－　Unlabel：19990，label：1028
-    09/16 －－－－　Unlabel：25106，label：1273
-    09/17 －－－－　Unlabel：26272，label：1104
+    09/12 －－－－　Concentrate：19990，Fatigue：1028
+    09/16 －－－－　Concentrate：25106，Fatigue：1273
+    09/17 －－－－　Concentrate：26272，Fatigue：1104
+    
+    ## Start from 09/26 Change data from 50fps to 20fps
+    
+    09/26 －－－－  Concentrate：13577，Fatigue： 769
